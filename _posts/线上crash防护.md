@@ -1,3 +1,8 @@
+layout: post
+title: "线上crash防护"
+date: 2021-01-20 20:20:11 -0000
+categories: Crash防护 随笔
+
 ### 主要目的
 
 - 既可以在debug 下发现crash，又可以在线上预防crash，降低线上的crash 率，提高用户体验，并且crash发生后可以把crash堆栈上传到后台。<br />
